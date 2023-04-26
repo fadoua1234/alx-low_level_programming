@@ -1,11 +1,6 @@
+/* This program uses the putchar function to print a message on the screen */
+
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * is written by mbah
-	 * Return: 0
-	 */
-
-
 	int main(void)
 	{
 	_putchar('_');
