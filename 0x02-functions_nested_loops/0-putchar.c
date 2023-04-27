@@ -1,8 +1,18 @@
-/* This program uses the putchar function to print a message on the screen */
+/*
+ * File: 0-holberton.c
+ * Auth: Brennan D Baraban
+ *
+ */
 
 #include "main.h"
-	int main(void)
-	{
+
+/**
+ * main - Prints "_putchar" followed by a new line.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -12,5 +22,6 @@
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
-	}
+}
