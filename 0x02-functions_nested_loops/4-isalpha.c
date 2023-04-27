@@ -2,9 +2,7 @@
  * File: 4-isalpha.c
  * Auth:Fadoua AZENDOUR 
  */
-
 #include "main.h"
-
 /**
  * _isalpha - Checks if a character is alphabetic.
  * @c: The character to be checked.
@@ -19,4 +17,3 @@ int _isalpha(int c)
 	else
 		return (0);
 }
-
