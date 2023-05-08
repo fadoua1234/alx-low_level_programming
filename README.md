@@ -1,1 +1,2 @@
-This is a README file for the 0x05-pointers_arrays_strings directory
+This is a README file for the 0x07. C - Even more pointers, arrays and strings C Project
+ directory
